@@ -1,0 +1,9 @@
+# ninja log v5
+1	690	1707007896324577479	wallBoard_autogen/timestamp	e1cde05df556279
+1	690	1707007896324577479	wallBoard_autogen/mocs_compilation.cpp	e1cde05df556279
+1	690	1707007896324577479	/home/shattered/wallBoard/build-wallBoard-Desktop_Qt_6_6_1_GCC_64bit-Debug/wallBoard_autogen/timestamp	e1cde05df556279
+1	690	1707007896324577479	/home/shattered/wallBoard/build-wallBoard-Desktop_Qt_6_6_1_GCC_64bit-Debug/wallBoard_autogen/mocs_compilation.cpp	e1cde05df556279
+692	3359	1707007899008616165	CMakeFiles/wallBoard.dir/wallBoard_autogen/mocs_compilation.cpp.o	e58f901f3f08061
+691	3436	1707007899084617261	CMakeFiles/wallBoard.dir/main.cpp.o	ee7d010e40ffd849
+693	3540	1707007899184618703	CMakeFiles/wallBoard.dir/mainwindow.cpp.o	26ee3305d2202939
+3541	4129	1707007899768627125	wallBoard	f5bdc8558428b6c

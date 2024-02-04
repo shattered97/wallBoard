@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c7601437afc9d1b6d726.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "wallBoard",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "wallBoard::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-wallBoard-Debug-23a4fa815eaabea9699f.json",
+					"name" : "wallBoard",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "wallBoard_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-wallBoard_autogen-Debug-570e5c7370359de6ba90.json",
+					"name" : "wallBoard_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "wallBoard_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-wallBoard_autogen_timestamp_deps-Debug-8321d974fd34d03291f3.json",
+					"name" : "wallBoard_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/shattered/wallBoard/build-wallBoard-Desktop_Qt_6_6_1_GCC_64bit-Debug",
+		"source" : "/home/shattered/wallBoard/wallBoard"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,9 @@
+/home/shattered/wallBoard/build-wallBoard-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/wallBoard.dir
+/home/shattered/wallBoard/build-wallBoard-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/shattered/wallBoard/build-wallBoard-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/shattered/wallBoard/build-wallBoard-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/shattered/wallBoard/build-wallBoard-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/shattered/wallBoard/build-wallBoard-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/shattered/wallBoard/build-wallBoard-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/shattered/wallBoard/build-wallBoard-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/wallBoard_autogen_timestamp_deps.dir
+/home/shattered/wallBoard/build-wallBoard-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/wallBoard_autogen.dir
